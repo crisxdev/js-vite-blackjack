@@ -8,4 +8,4 @@ Pasos para ejecutar proyecto:
 4. Abrir el proyecto en ```http://localhost:3000```
 5. Para crear un nuevo build ```npm run build```
 
-## Porducción
+## Producción
